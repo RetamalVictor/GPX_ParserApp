@@ -89,6 +89,3 @@ Used to generate and visualize a 2D graph of the GPX data.
 This library will allow the plotting of the GPX data on a 2D Graph for certain features. Such as, the altitude walked or calories burnt over time are some examples. But because those features are currently listed as bonus features the use of this library is optional.
 
 
-##  Time Logs
-![Screenshot](timelogs.PNG)
-
