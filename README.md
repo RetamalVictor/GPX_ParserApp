@@ -3,7 +3,7 @@ This is the template for the team project of the Software Design course at the V
 
 ## Introduction
 
-*Author(s): Bas Dijkstra
+*Author(s): Victor Retamal Guiberteau, Bas Dijkstra, Daniel R.
 
 **The GPXManager** is a tool used to visualize sport activities. The aim of this tool is to give the user better insight into their sports achievements. This can be done by turning data in GPX format into visual data on a map. GPX is a standard data format used by popular sport tracking apps such as Strava, Runkeeper etc. More info on the GPX data format can be found [here](https://en.wikipedia.org/wiki/GPS_Exchange_Format).
 This manager uses the GPX data to give the user the option to compute some basic metrics on said data. This includes total travelled distance, min-max altitude, estimated number of burned calories etc.
@@ -25,9 +25,6 @@ The sports targeted in the app are those route dependent, such as running, cycli
 
 
 ##  Features
-
-*Author(s): Victor Retamal Guiberteau
-
 
 ### Functional features
 
@@ -64,7 +61,6 @@ These two actions will be triggered after the input of the data. The main idea b
 
 ##  Features
 
-*Author(s): Daniel R.
 
 **[GMapsFX](https://github.com/dlsc-software-consulting-gmbh/GMapsFX)**
 Used to visualize the imported GPX data and visualize it on the Google maps API.
